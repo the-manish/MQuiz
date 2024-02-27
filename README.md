@@ -23,4 +23,4 @@
 **To execute python file run command- streamlit run "file path"**
 
 
-To run the python file enter command-streamlit run "file path"
+
